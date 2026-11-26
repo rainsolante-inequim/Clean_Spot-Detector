@@ -1,0 +1,7 @@
+Flask
+Flask-MySQLdb
+opencv-python
+numpy
+scikit-learn
+Pillow
+Werkzeug
